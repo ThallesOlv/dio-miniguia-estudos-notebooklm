@@ -118,6 +118,8 @@ explicitamente nas fontes sobre [tema]. Cite a fonte.
 
 O miniguia produzido a partir das interações com o NotebookLM está disponível em [`/miniguia`](./miniguia), contendo:
 
+🔗 **Acesse o notebook original:** [Caderno Temático — Educação Financeira (NotebookLM)](https://notebooklm.google.com/notebook/ef401f1d-f9b7-4d57-800b-e4d598d30d36)
+
 - **Resumos estruturados** de cada fonte, com referência de origem.
 - **Glossário** de termos técnicos (ex: cidadania financeira, letramento financeiro, inadimplência, ativo problemático).
 - **Mapa de conexões** entre os conceitos das 5 fontes.
