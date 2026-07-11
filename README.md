@@ -29,11 +29,12 @@ A escolha se justifica pela forte aderência ao contexto do bootcamp e do setor 
 
 | # | Fonte | Instituição | Link |
 |---|-------|--------------|------|
-| 1 | Caderno de Educação Financeira — Gestão de Finanças Pessoais | Banco Central do Brasil (BCB) | [Acessar PDF](https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf) |
-| 2 | Relatório de Cidadania Financeira 2025 | Banco Central do Brasil (BCB) | [Acessar PDF](https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/relatorio_de_cidadania_financeira_2025.pdf) |
-| 3 | Guia de Boas Práticas de Educação Financeira no Setor Bancário Brasileiro | Febraban | [Acessar PDF](https://cmsarquivos.febraban.org.br/Arquivos/documentos/PDF/febraban-guia%20de%20boas%20pr%C3%A1ticas-v7-web.pdf) |
-| 4 | Livro TOP: Mercado de Valores Mobiliários Brasileiro (5ª ed.) | CVM | [Acessar PDF](https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/livros-cvm/cvm-livro_top_valores_mobiliarios_br_5ed.pdf/@@display-file/file) |
-| 5 | Página institucional de Educação | CVM | [Acessar página](https://www.gov.br/cvm/pt-br/assuntos/educacao) |
+| 1 | Página institucional de Educação | CVM | [Acessar página](https://www.gov.br/cvm/pt-br/assuntos/educacao) |
+| 2 | Guia de Boas Práticas de Educação Financeira no Setor Bancário Brasileiro | Febraban | [Acessar PDF](https://cmsarquivos.febraban.org.br/Arquivos/documentos/PDF/febraban-guia%20de%20boas%20pr%C3%A1ticas-v7-web.pdf) |
+| 3 | Caderno de Educação Financeira — Gestão de Finanças Pessoais | Banco Central do Brasil (BCB) | [Acessar PDF](https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/Cuidando_do_seu_dinheiro_Gestao_de_Financas_Pessoais/caderno_cidadania_financeira.pdf) |
+| 4 | Série Cidadania Financeira Estudos sobre Educação, Proteção e Inclusão | Banco Central do Brasil (BCB) | [Acessar PDF](https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/serie_cidadania/serie_cidadania_5_financeira_pesquisa.pdf) |
+| 5 | Livro TOP: Mercado de Valores Mobiliários Brasileiro (5ª ed.) | CVM | [Acessar PDF](https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/livros-cvm/cvm-livro_top_valores_mobiliarios_br_5ed.pdf/@@display-file/file) |
+
 
 > ⚠️ **Nota:** o link 2 pode falhar ao ser importado por URL diretamente no NotebookLM (comum em domínios governamentais). Recomenda-se baixar o PDF e fazer upload manual do arquivo.
 
