@@ -109,11 +109,7 @@ explicitamente nas fontes sobre [tema]. Cite a fonte.
 │   ├── resumos.md              # Resumos estruturados por fonte
 │   ├── glossario.md            # Glossário de termos técnicos
 │   ├── mapa-conexoes.md        # Conexões entre conceitos das fontes
-│   └── reflexao-critica.md     # Respostas às perguntas críticas
-├── /prompts
-│   └── prompts-reutilizaveis.md
-└── /evidencias
-    └── capturas-notebooklm/     # Prints das interações no NotebookLM (opcional)
+│   └── reflexao-critica.md     # Respostas às perguntas críticas   
 ```
 
 ---
