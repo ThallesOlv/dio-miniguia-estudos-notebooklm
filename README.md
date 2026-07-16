@@ -35,9 +35,6 @@ A escolha se justifica pela forte aderência ao contexto do bootcamp e do setor 
 | 4 | Série Cidadania Financeira Estudos sobre Educação, Proteção e Inclusão | Banco Central do Brasil (BCB) | [Acessar PDF](https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/serie_cidadania/serie_cidadania_5_financeira_pesquisa.pdf) |
 | 5 | Livro TOP: Mercado de Valores Mobiliários Brasileiro (5ª ed.) | CVM | [Acessar PDF](https://www.gov.br/investidor/pt-br/educacional/publicacoes-educacionais/livros-cvm/cvm-livro_top_valores_mobiliarios_br_5ed.pdf/@@display-file/file) |
 
-
-> ⚠️ **Nota:** o link 2 pode falhar ao ser importado por URL diretamente no NotebookLM (comum em domínios governamentais). Recomenda-se baixar o PDF e fazer upload manual do arquivo.
-
 ---
 
 ## 🎓 Objetivos de Estudo
@@ -104,14 +101,12 @@ explicitamente nas fontes sobre [tema]. Cite a fonte.
 
 ```
 ├── README.md                  # Este arquivo
-├── /fontes                    # PDFs das fontes utilizadas (ou links, se não versionados)
 ├── /miniguia
 │   ├── resumos.md              # Resumos estruturados por fonte
 │   ├── glossario.md            # Glossário de termos técnicos
 │   ├── mapa-conexoes.md        # Conexões entre conceitos das fontes
 │   └── reflexao-critica.md     # Respostas às perguntas críticas   
 ```
-
 ---
 
 ## 📝 Miniguia de Estudo (Resultado Final)
